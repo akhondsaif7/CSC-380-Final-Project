@@ -10,7 +10,7 @@
 Online sexism is a widespread and harmful phenomenon. This project tackles
 **Task A — Binary Sexism Detection**, classifying social media posts as
 either *sexist* or *not sexist*. It was completed as the final project
-for CSC380.
+for CSC380 alongside Matteo Galiano and Dylan Carothers.
 
 We ensembled two complementary approaches:
 1. **Random Forest** on character-level TF-IDF (3–5 char n-grams)
